@@ -63,7 +63,7 @@ int main()
 			ray r(camera_center, ray_direction);
 
 			color pixel_color = ray_color(r);
-			write_color(std::cout, pixel_color);
+			write_color(std::cout, pixel_color);  
 		}
 	}
 
