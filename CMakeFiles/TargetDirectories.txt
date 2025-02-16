@@ -1,0 +1,3 @@
+/home/myakoven/Documents/RayTracing_Weekend/CMakeFiles/raytracer.dir
+/home/myakoven/Documents/RayTracing_Weekend/CMakeFiles/edit_cache.dir
+/home/myakoven/Documents/RayTracing_Weekend/CMakeFiles/rebuild_cache.dir
