@@ -16,7 +16,7 @@ color ray_color(const ray &r)
 
 int main()
 {
-	auto aspect_ration = 16.0 / 9.0;
+	auto aspect_ratio = 16.0 / 9.0;
 	int image_width = 400;
 
 	int image_height = int(image_width / aspect_ration);
@@ -33,6 +33,6 @@ int main()
 	auto pixel_delta_u = viewport_u / image_width;
 	auto pixe_delta_v = viewport_v / image_height;
 
-	
+	auto viewport_upper_left = camera
 
 }

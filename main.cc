@@ -43,6 +43,9 @@ int main()
 
 	// Calculate the location of the upper left pixel.
 	auto viewport_upper_left = camera_center - vec3(0, 0, focal_length) - viewport_u / 2 - viewport_v / 2;
+	auto viewport_upper_lef2 = camera_center - vec3(0,0,focal_length) - viewport_u / 2 - viewport_v / 2;
+	//                           vec3(0,0,0) - vec3(0,0,1)            - 3.55/2, 0, 0   - (0, -2/2, 0);
+	//							 (-1.775, 1, -1) 
 	auto pixel00_loc = viewport_upper_left + 0.5 * (pixel_delta_u + pixel_delta_v);
 
 	// Render
