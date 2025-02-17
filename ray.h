@@ -3,6 +3,7 @@
 
 #include "vec3.h"
 
+/*t is distance*/
 class ray {
   public:
     ray() {}
