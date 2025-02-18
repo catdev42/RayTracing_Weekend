@@ -1,6 +1,10 @@
 cmake_minimum_required(VERSION 3.10)
 project(raytracer)
 
+# Add debug flags
+set(CMAKE_BUILD_TYPE Debug)
+set(CMAKE_CXX_FLAGS_DEBUG "${CMAKE_CXX_FLAGS_DEBUG} -g -O0")
+
 # Set C++11 as minimum
 set(CMAKE_CXX_STANDARD 11)
 set(CMAKE_CXX_STANDARD_REQUIRED ON)
