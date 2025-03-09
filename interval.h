@@ -32,7 +32,7 @@ class interval {
 
     static const interval empty, universe;
 };
-a
+
 const interval interval::empty    = interval(+infinity, -infinity);
 const interval interval::universe = interval(-infinity, +infinity);
 
