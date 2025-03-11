@@ -223,6 +223,7 @@ CMakeFiles/raytracer.dir/main.cc.o
  /home/myakoven/Documents/RayTracing_Weekend/hittable.h
  /home/myakoven/Documents/RayTracing_Weekend/hittable_list.h
  /home/myakoven/Documents/RayTracing_Weekend/interval.h
+ /home/myakoven/Documents/RayTracing_Weekend/material.h
  /home/myakoven/Documents/RayTracing_Weekend/ray.h
  /home/myakoven/Documents/RayTracing_Weekend/rtweekend.h
  /home/myakoven/Documents/RayTracing_Weekend/sphere.h

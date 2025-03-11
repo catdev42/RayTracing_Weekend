@@ -202,7 +202,8 @@ CMakeFiles/raytracer.dir/main.cc.o: \
   /usr/bin/../lib/gcc/x86_64-linux-gnu/12/../../../../include/c++/12/bits/atomic_lockfree_defines.h \
   /usr/lib/llvm-12/lib/clang/12.0.1/include/sanitizer/tsan_interface.h \
   /usr/bin/../lib/gcc/x86_64-linux-gnu/12/../../../../include/c++/12/backward/auto_ptr.h \
-  color.h vec3.h interval.h ray.h camera.h hittable.h hittable_list.h \
+  color.h vec3.h interval.h ray.h camera.h hittable.h material.h \
+  hittable_list.h \
   /usr/bin/../lib/gcc/x86_64-linux-gnu/12/../../../../include/c++/12/vector \
   /usr/bin/../lib/gcc/x86_64-linux-gnu/12/../../../../include/c++/12/bits/stl_vector.h \
   /usr/bin/../lib/gcc/x86_64-linux-gnu/12/../../../../include/c++/12/bits/stl_bvector.h \

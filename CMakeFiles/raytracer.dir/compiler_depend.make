@@ -222,6 +222,7 @@ CMakeFiles/raytracer.dir/main.cc.o: main.cc \
   hittable.h \
   hittable_list.h \
   interval.h \
+  material.h \
   ray.h \
   rtweekend.h \
   sphere.h \
@@ -667,6 +668,8 @@ interval.h:
 /usr/include/linux/errno.h:
 
 rtweekend.h:
+
+material.h:
 
 /usr/include/x86_64-linux-gnu/bits/cpu-set.h:
 
